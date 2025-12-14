@@ -1,6 +1,6 @@
 # Claude-PowerShell-Orchestration-Configurator
 SCCM or Manual PowerShell Orchestration for PC
-
+## This is a work in progress. Currently, the Non-SCCM manual run post pc imaging is mostly functional but I am working on some bugs and issues. There are health,reports,etc that are created. Runs pretty quickly depending on Windows updates required and App installs.
 Notes:
 This is a “TEST” project of mine.
 The project is using only AI (Claude in this case) to create basically a fully functional PowerShell Orchestration Platform for PC Deployments. I know very little PowerShell myself but am adequate with research and tweaking / editing code.
